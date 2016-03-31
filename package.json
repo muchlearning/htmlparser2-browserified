@@ -1,0 +1,26 @@
+{
+  "name": "htmlparser2-browserified",
+  "version": "0.0.0",
+  "description": "Browserified version of htmlparser2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muchlearning/htmlparser2-browserified"
+  },
+  "keywords": [
+    "html",
+    "parser"
+  ],
+  "author": "Hubert Chathi <hubert@muchlearning.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muchlearning/htmlparser2-browserified/issues"
+  },
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "htmlparser2": "*"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "htmlparser2-browserified",
+  "description": "Browserified version of htmlparser2",
+  "main": "htmlparser2.js",
+  "authors": [
+    "Hubert Chathi <hubert@muchlearning.org>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "html",
+    "parser"
+  ],
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "homepage": "https://github.com/muchlearning/htmlparser2-browserified",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
